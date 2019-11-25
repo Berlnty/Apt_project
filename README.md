@@ -1,0 +1,6 @@
+# Apt_project
+this a crawler in Java
+start project in intellij and add the mongpdb driver
+to run crawler you run file crawler.java
+to run indexer you run file main.java
+to run the sreach you run file index.html
